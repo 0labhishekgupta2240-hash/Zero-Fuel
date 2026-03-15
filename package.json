@@ -1,0 +1,1 @@
+{\n  "name": "zero-fuel",\n  "version": "1.0.0",\n  "description": "EV Scooty Rental Website - An eco-friendly transportation solution",\n  "scripts": {\n    "start": "node index.js",\n    "build": "webpack",\n    "deploy": "bash deploy.sh"\n  }\n}
